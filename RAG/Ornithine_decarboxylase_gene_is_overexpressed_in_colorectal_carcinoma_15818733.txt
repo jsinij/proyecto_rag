@@ -1,0 +1,7 @@
+TITLE: Ornithine decarboxylase gene is overexpressed in colorectal carcinoma
+PMID: 15818733
+PMC: 
+------------------------------------------------------------
+
+# ABSTRACT
+AIM: To investigate the ornithine decarboxylase (ODC) gene expression in colorectal carcinoma, ODC mRNA was assayed by RT-PCR and ODC protein was detected by a monoclonal antibody against fusion of human colon ODC prepared by hybridoma technology. METHODS: Total RNA was extracted from human colorectal cancer tissues and their normal counterpart tissues. ODC mRNA levels were examined by RT-PCR. ODC genes amplified from RT-PCR were cloned into a prokaryotic vector pQE-30. The expressed proteins were purified by chromatography. Anti-ODC mAb was prepared with classical hybridoma techniques and used to determine the ODC expression in colon cancer tissues by immunohistochemical and Western blotting assay. RESULTS: A cell line, which could steadily secrete anti-ODC mAb, was selected through subcloning four times. Western blotting reconfirmed the mAb and ELISA showed that its subtype was IgG2a. RT-PCR showed that the ODC mRNA level increased greatly in colon cancer tissues ( P <0.01). Immunohistochemical staining showed that colorectal carcinoma cells expressed a significantly higher level of ODC than normal colorectal mucosa (98.6±1.03% vs 5.26±5%, P <0.01). CONCLUSION: ODC gene overexpression is significantly related to human colorectal carcinoma. ODC gene expression may be a marker for the gene diagnosis and therapy of colorectal carcinoma.
